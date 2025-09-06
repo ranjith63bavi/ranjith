@@ -1,0 +1,5 @@
+{
+  "name": "Hepa Predict: AI-Powered HCC Treatment Evaluation",
+  "description": "An AI-driven application to evaluate Hepatocellular Carcinoma (HCC) treatment response after RFA and TACE. Upload TR-MRI and TE-MRI documents to receive a predictive analysis on survival timeframe.",
+  "requestFramePermissions": []
+}
